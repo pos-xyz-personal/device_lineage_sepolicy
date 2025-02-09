@@ -8,3 +8,6 @@ type lineage_trust_service, system_api_service, system_server_service, service_m
 
 # Freeform
 type lmofreeform_service, system_api_service, system_server_service, service_manager_type;
+
+# BoostFramework
+type boost_framework_service, system_api_service, system_server_service, service_manager_type;
